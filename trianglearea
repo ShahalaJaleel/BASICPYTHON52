@@ -1,0 +1,4 @@
+b = input ( "enter the base: " )
+h = input ( "enter the height: " )
+area = 0.5 * b * h
+print "area = " , area 
